@@ -1,6 +1,6 @@
 # Memory-Game-Emojis-JS
 
-## Awesome JavaScript  Memory-Game-Emojis-JS
+## Awesome JavaScript Memory-Game-Emojis-JS
 <br/>
 
 
@@ -23,8 +23,8 @@
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+3. Use o mouse para selecionar as imagens e tente descubrir onde estão oa pares de emojis.
+4. Divirta-se jogando!!!
 5. Ou, [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Memory-Game-Emojis-JS/)
 
 ### Contribuição
